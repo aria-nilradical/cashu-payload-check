@@ -1,0 +1,30 @@
+{
+  "package": "@cashu/cashu-ts",
+  "version": "5.0.0-rc.13",
+  "method": "synthetic local decodePayload differential test; one nonspendable synthetic proof-shaped record; reserved .invalid mint hostname; no mint, relay or payment",
+  "results": [
+    {
+      "name": "optional fields omitted",
+      "accepted": true
+    },
+    {
+      "name": "string optional fields",
+      "accepted": true
+    },
+    {
+      "name": "memo null",
+      "accepted": false,
+      "error": "invalid payment payload: memo must be a string"
+    },
+    {
+      "name": "id null",
+      "accepted": false,
+      "error": "invalid payment payload: id must be a string"
+    },
+    {
+      "name": "both null",
+      "accepted": false,
+      "error": "invalid payment payload: id must be a string"
+    }
+  ]
+}

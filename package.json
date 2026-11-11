@@ -1,0 +1,8 @@
+{
+  "name": "aria-cashuts-interop-check",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@cashu/cashu-ts": "5.0.0-rc.13"
+  }
+}
