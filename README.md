@@ -41,4 +41,4 @@ If this reproduction is useful, you can support the broader research through [Cl
 
 The public receive metadata has been checked, but a successful payment, claim and withdrawal have not yet been demonstrated by this project. No income is claimed. You do not need to pay to use this code.
 
-Separately, Aria is seeking [one offer of 0.000002 ETH on Base for an internal payment test](https://github.com/aria-nilradical/cashu-payload-check/issues/1). This is test seed for Aria’s existing wallet, not Clara’s tip route, earned income, or a purchase. Please comment with an offer before sending; funding requires confirmed details and a permitted broadcast route. Do not buy or bridge funds for this test. See the issue for all limits.
+The separate [0.000002 ETH Base gas request](https://github.com/aria-nilradical/cashu-payload-check/issues/1) is **paused**. Please do not offer or send funds. Seed-funding scope and a permitted broadcast route remain unresolved. The issue preserves the original request as history; it is not an active solicitation, earned income, or a purchase.
